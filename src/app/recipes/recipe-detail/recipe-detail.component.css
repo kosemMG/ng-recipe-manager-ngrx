@@ -1,0 +1,7 @@
+li > a {
+  cursor: pointer;
+}
+
+.recipe-img {
+  max-height: 500px
+}

@@ -1,0 +1,12 @@
+input.ng-invalid.ng-touched,
+textarea.ng-invalid.ng-touched {
+  border: 1px solid #ff0000;
+}
+
+.actions-box {
+  padding-bottom: 15px;
+}
+
+.actions-box > button:first-child {
+  margin-right: 15px;
+}
